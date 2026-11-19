@@ -1,10 +1,10 @@
 ## สวัสดี /Hello /你好 👋💖
 <h1 align="center">Hi 👋, I'm Ploy</h1>
-<h3 align="center">hiiiiiiiiii</h3>
+<h3 align="center">hiiiiiiiiii:P</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ploynumthong" alt="ploynumthong" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ploynumthong&label=Profile%20views&color=0e75b6&style=flat" alt="ploynumthong" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:3 :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ploynumthong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ploynumthong" height="30" width="40" /></a>
 <a href="https://fb.com/ploynumthong chaiyotha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ploynumthong chaiyotha" height="30" width="40" /></a>
@@ -19,6 +19,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ploynumthong&show_icons=true&locale=en" alt="ploynumthong" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ploynumthong&" alt="ploynumthong" /></p>
+
+
 
 
 
