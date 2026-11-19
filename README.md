@@ -1,7 +1,8 @@
-## สวัสดี /Hello /你好 👋💖
+<!--## สวัสดี /Hello /你好 👋💖-->
 <h1 align="center">Hi 👋, I'm Ploy</h1>
 <h3 align="center">hiiiiiiiiii:P</h3>
-<img width="220" height="248" alt="siamese-cat-siamese" src="https://github.com/user-attachments/assets/1b6bd079-7d50-42a8-a478-c2ffd6ca52cf" />
+<img width="220" height="248" alt="siamese-cat-siamese" src="https://github.com/user-attachments/assets/1b6bd079-7d50-42a8-a478-c2ffd6ca52cf" /> <img width="203" height="374" alt="cat-stupid" src="https://github.com/user-attachments/assets/1997fffb-f86f-47a4-8587-001753c79132" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ploynumthong&label=Profile%20views&color=0e75b6&style=flat" alt="ploynumthong" /> </p>
