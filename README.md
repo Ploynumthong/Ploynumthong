@@ -7,7 +7,8 @@
   <img width="228" height="431" alt="cat-tongue-cat-lick" src="https://github.com/user-attachments/assets/dddef0ea-344d-4bb8-9ca3-eee7846e2dbb" />
 </p>
 
-<h3 align="left">Connect with me:3 </h3>
+<h3 align="left">Connect with me:3 </h3> <img width="100" height="100" alt="a88be9f7deb90c3e1779b9fd414ea8db" src="https://github.com/user-attachments/assets/52176469-b6ef-4d95-ad03-7a50c5e5c4db" />
+
 <p align="left">
 <a href="https://linkedin.com/in/ploynumthong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ploynumthong" height="30" width="40" /></a>
 <a href="https://fb.com/polynumtong.chaiyotha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ploynumthong chaiyotha" height="30" width="40" /></a>
